@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Stack/Stack.cpp"
+            timestampString = "470870801.731223"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "operator +=(const Stack&lt;T&gt;&amp; s)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Stack&lt;int&gt;::operator+=(Stack&lt;int&gt; const&amp;)"
+                  moduleName = "Stack"
+                  urlString = "file:///Users/Cannon/Google%20Drive/School/C++/Portfolio/Stack/Stack/Stack.cpp"
+                  timestampString = "470687825.791812"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Stack&lt;int*&gt;::operator+=(Stack&lt;int*&gt; const&amp;)"
+                  moduleName = "Stack"
+                  urlString = "file:///Users/Cannon/Google%20Drive/School/C++/Portfolio/Stack/Stack/Stack.cpp"
+                  timestampString = "470687825.792123"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Stack&lt;float&gt;::operator+=(Stack&lt;float&gt; const&amp;)"
+                  moduleName = "Stack"
+                  urlString = "file:///Users/Cannon/Google%20Drive/School/C++/Portfolio/Stack/Stack/Stack.cpp"
+                  timestampString = "470687825.792383"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Stack&lt;float*&gt;::operator+=(Stack&lt;float*&gt; const&amp;)"
+                  moduleName = "Stack"
+                  urlString = "file:///Users/Cannon/Google%20Drive/School/C++/Portfolio/Stack/Stack/Stack.cpp"
+                  timestampString = "470687825.792983"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "27">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
